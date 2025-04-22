@@ -1,6 +1,5 @@
-#include<iostream>
+#include"header.h"
 using namespace std;
-int main(){
-    cout << "Hello SUBHNA ";
-    return 0;
+int main() {
+cout<<"Subhan"<<endl;
 }
